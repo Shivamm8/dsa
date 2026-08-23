@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivamm8/dsa/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Shivamm8/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [1207-unique-number-of-occurrences](https://github.com/Shivamm8/dsa/tree/master/1207-unique-number-of-occurrences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shivamm8/dsa/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivamm8/dsa/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Shivamm8/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [1207-unique-number-of-occurrences](https://github.com/Shivamm8/dsa/tree/master/1207-unique-number-of-occurrences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shivamm8/dsa/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## String
@@ -21,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shivamm8/dsa/tree/master/2744-find-maximum-number-of-string-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shivamm8/dsa/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
