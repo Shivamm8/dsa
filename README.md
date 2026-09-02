@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shivamm8/dsa/tree/master/0219-contains-duplicate-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Shivamm8/dsa/tree/master/1207-unique-number-of-occurrences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shivamm8/dsa/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shivamm8/dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shivamm8/dsa/tree/master/0009-palindrome-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shivamm8/dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
