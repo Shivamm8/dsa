@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivamm8/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shivamm8/dsa/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Shivamm8/dsa/tree/master/0045-jump-game-ii) |
+| [0066-plus-one](https://github.com/Shivamm8/dsa/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/Shivamm8/dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Shivamm8/dsa/tree/master/0219-contains-duplicate-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Shivamm8/dsa/tree/master/1207-unique-number-of-occurrences) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shivamm8/dsa/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Shivamm8/dsa/tree/master/0066-plus-one) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shivamm8/dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
