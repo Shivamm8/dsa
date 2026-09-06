@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Shivamm8/dsa/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Shivamm8/dsa/tree/master/0066-plus-one) |
+| [0367-valid-perfect-square](https://github.com/Shivamm8/dsa/tree/master/0367-valid-perfect-square) |
 | [2235-add-two-integers](https://github.com/Shivamm8/dsa/tree/master/2235-add-two-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shivamm8/dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivamm8/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shivamm8/dsa/tree/master/0035-search-insert-position) |
+| [0367-valid-perfect-square](https://github.com/Shivamm8/dsa/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
 | ------- |
